@@ -1,7 +1,7 @@
 # BÁO CÁO BÀI TẬP: CẤU HÌNH VÀ KIỂM THỬ HIỆU NĂNG API BẰNG APACHE JMETER
 
 ## 1. Thông tin sinh viên
-- **Họ và tên:** [Điền họ tên của bạn]
+- **Họ và tên:** Đào Duy Thắng
 
 ---
 
